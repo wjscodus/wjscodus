@@ -3,7 +3,7 @@
 - 📫 wjscodus_@naver.com
 <br/>
 
-### Main Tools
+### Tools
 <div width="100%">
   <img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/java.png" alt="java" height="50px"/>
   <img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/kotlin.png" alt="kotlin" height="50px"/>
@@ -14,17 +14,11 @@
   <img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/aws-ec2.png" alt="aws ec2" height="50px"/>
   <img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/aws-rds.png" alt="aws rds" height="50px"/>
   <img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/jwt.png" alt="jwt" height="50px"/>
-</div> 
-<br/><br/><br/>
-
-
-### Currently Developing Tools
-<div width="100%">
   <img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/docker.png" alt="docker" height="50px"/>
   <img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/github-actions.png" alt="github actions" height="50px"/>
   <img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/linux.png" alt="linux" height="50px"/>
   <img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/nginx.png" alt="nginx" height="50px"/>
-</div>
+</div> 
 <br/><br/><br/>
 
 ### Statistics
